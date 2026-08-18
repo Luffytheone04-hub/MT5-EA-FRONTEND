@@ -1,0 +1,20 @@
+{
+  "name": "MT5 Trading Dashboard",
+  "short_name": "MT5 Dashboard",
+  "description": "Real-time trading dashboard for MT5 with live market data",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#1f2937",
+  "background_color": "#111827",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
+}
